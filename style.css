@@ -1,0 +1,33 @@
+s1{
+    font:10pt;
+    color:chocolate; 
+}
+
+.fruitcolor1{
+    color:blue;
+    font-size:20pt;
+}
+
+.fruitcolor2{
+    color:red;
+    font-size:20pt;
+}
+
+.fruitcolor3{
+    color:green;
+    font-size:20pt;
+}
+
+.fruitcolor4{
+    color:yellow;
+    font-size:20pt;
+}
+
+.fruitcolor5{
+    color:purple;
+    font-size:20pt;
+}
+
+div{
+    background-image: url(Image/Spongebob.png);
+}
